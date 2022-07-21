@@ -32,6 +32,6 @@
 <style>
     .view {
     height: 800px;
-    width: 1200px;
+    width: 1100px;
   }
 </style>
